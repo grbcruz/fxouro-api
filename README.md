@@ -1,2 +1,3 @@
-# fxouro-api
-api to the fxouro lp
+# fxouro
+
+a [Sails](http://sailsjs.org) application
